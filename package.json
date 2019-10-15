@@ -1,0 +1,20 @@
+{
+  "name": "roulette",
+  "version": "1.0.0",
+  "description": "Roulette alexa skill",
+  "main": "index.js",
+  "scripts": {
+    "proxy": "bst proxy lambda index.js",
+    "Roll": "bst intend GetNewRollIntent",
+    "deploy": "bst deploy lambda"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "bespoken-tools": "^2.1.2",
+    "dotenv": "^6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/splitfirex/RollRoulette.git"
+  }
+}

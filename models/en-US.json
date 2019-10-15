@@ -1,0 +1,69 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "roulette",
+      "intents": [
+        {
+          "name": "GetNewRollIntent",
+          "slots": [],
+          "samples": [
+            "place a bet",
+            "bet to evens",
+            "bet to odds",
+            "bet to black",
+            "bet to red",
+            "bet to 1",
+            "bet to 2",
+            "bet to 3",
+            "bet to 4",
+            "bet to 5",
+            "bet to 6",
+            "bet to 7",
+            "bet to 8",
+            "bet to 9",
+            "bet to 10",
+            "bet to 11",
+            "bet to 12",
+            "bet to 13",
+            "bet to 14",
+            "bet to 15",
+            "bet to 16",
+            "bet to 17",
+            "bet to 18",
+            "bet to 19",
+            "bet to 20",
+            "bet to 21",
+            "bet to 22",
+            "bet to 23",
+            "bet to 24",
+            "bet to 25",
+            "bet to 26",
+            "bet to 27",
+            "bet to 28",
+            "bet to 29",
+            "bet to 30",
+            "bet to 31",
+            "bet to 32",
+            "bet to 33",
+            "bet to 34",
+            "bet to 35",
+            "bet to 36"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  }
+}
