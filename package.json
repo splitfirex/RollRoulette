@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "alexa-sdk": "^1.0.25",
-    "bespoken-tools": "^2.1.2",
+    "bespoken-tools": "^2.6.5",
     "dotenv": "^6.2.0"
   },
   "repository": {
